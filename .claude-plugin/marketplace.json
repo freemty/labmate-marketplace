@@ -1,0 +1,22 @@
+{
+  "name": "labmate-marketplace",
+  "owner": {
+    "name": "freemty"
+  },
+  "metadata": {
+    "description": "Research harness plugins for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "labmate",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/freemty/labmate.git"
+      },
+      "description": "Research Harness for Claude Code. Keep your agent grounded in context, not lost in vibe coding.",
+      "version": "0.4.0",
+      "strict": true
+    }
+  ]
+}
