@@ -14,8 +14,8 @@
         "source": "url",
         "url": "https://github.com/freemty/labmate.git"
       },
-      "description": "Research Harness for Claude Code. Keep your agent grounded in context, not lost in vibe coding.",
-      "version": "0.4.3",
+      "description": "Your AI labmate for the full research lifecycle \u2014 from reading papers to running experiments to writing them up.",
+      "version": "0.5.0",
       "strict": true
     }
   ]
