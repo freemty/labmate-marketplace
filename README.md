@@ -22,10 +22,11 @@ Research Harness for Claude Code. Keep your agent grounded in context, not lost 
 ```
 
 **What you get:**
-- 7 research agents (@domain-expert, @project-advisor, @exp-manager, etc.)
-- 7 workflow skills (/init-project, /new-experiment, /analyze-experiment, etc.)
+- 5 agents (@domain-expert, @project-advisor, @exp-manager, @slides-maker, @viz-frontend)
+- 10 skills (/init-project, /new-experiment, /analyze-experiment, /commit-changelog, /update-knowhow, etc.)
+- Two project types: `general` (lightweight) and `research` (full experiment lifecycle)
 - SessionStart context injection that picks up where you left off
-- Experiment lifecycle: hypothesis → run → analyze → slides → iterate
+- Knowhow system for accumulating environment knowledge across sessions
 
 **Repository:** https://github.com/freemty/labmate
 
