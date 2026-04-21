@@ -23,7 +23,7 @@ Research Harness for Claude Code. Keep your agent grounded in context, not lost 
 
 **What you get:**
 - 5 agents (@domain-expert, @project-advisor, @exp-manager, @slides-maker, @viz-frontend)
-- 10 skills (/init-project, /new-experiment, /analyze-experiment, /commit-changelog, /update-knowhow, etc.)
+- 12 skills (/init-project, /new-experiment, /analyze-experiment, /commit-changelog, /update-knowhow, /todo, /update-docs, etc.)
 - Two project types: `general` (lightweight) and `research` (full experiment lifecycle)
 - SessionStart context injection that picks up where you left off
 - Knowhow system for accumulating environment knowledge across sessions
