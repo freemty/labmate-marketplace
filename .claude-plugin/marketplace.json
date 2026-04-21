@@ -15,7 +15,7 @@
         "url": "https://github.com/freemty/labmate.git"
       },
       "description": "Your AI labmate for the full research lifecycle \u2014 from reading papers to running experiments to writing them up.",
-      "version": "0.7.1",
+      "version": "0.9.0",
       "strict": true
     }
   ]
