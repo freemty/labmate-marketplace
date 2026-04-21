@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "Research harness plugins for Claude Code",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "plugins": [
     {
@@ -14,9 +14,27 @@
         "source": "url",
         "url": "https://github.com/freemty/labmate.git"
       },
-      "description": "Your AI labmate for the full research lifecycle \u2014 from reading papers to running experiments to writing them up.",
+      "description": "Your AI labmate for the full research lifecycle — from reading papers to running experiments to writing them up.",
       "version": "0.9.1",
       "strict": true
+    },
+    {
+      "name": "unbox-skills",
+      "source": {
+        "source": "github",
+        "repo": "freemty/unbox-skills"
+      },
+      "description": "Researcher deep profiling toolkit — personality analysis, cross-reference, and knowledge graph construction.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "meta-audit",
+      "source": {
+        "source": "github",
+        "repo": "freemty/meta-audit"
+      },
+      "description": "AI automation maturity audit — L0-L5 scoring, ecosystem benchmarks, Top-3 actions.",
+      "version": "1.0.0"
     }
   ]
 }
